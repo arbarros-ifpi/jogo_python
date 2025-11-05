@@ -1,6 +1,3 @@
-# jogo_python
-
-
 <p align="center">
   <img width="700" height="341" alt="image" src="https://github.com/user-attachments/assets/97f523d4-f2c7-4086-abaf-e5c0d337b7d6" />
 </p>
@@ -21,16 +18,13 @@
 ---
 
 📘 **Sobre o Repositório**
-Repositório  POO.
-
 Este repositório é destinado a compartilhar detalhes do jogo desenvolvido como atividade complementas da disciplina de **Programação Orientada a Objetos**.
 O objetivo é apoiar o aluno na construção do jogo usando a bilioteca pygame e conceitos introduzidos na disciplina citada, seguindo boas práticas e padrões standart de desenvolvimento.
 
 ---
 
 🧩 **Conteúdos Principais**
-- ** Material desenvolvimento de games com Pygame **
-- ** link: https://akiradev.netlify.app/posts/desenvolvimento-games-python/ **
+- **Desenvolvimento de games com Pygame:link: https://akiradev.netlify.app/posts/desenvolvimento-games-python/**
 ---
 
 🛠️ **Ferramentas e Tecnologias**
