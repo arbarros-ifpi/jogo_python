@@ -24,7 +24,7 @@ O objetivo é apoiar o aluno na construção do jogo usando a bilioteca pygame e
 ---
 
 🧩 **Conteúdos Principais**
-- **Desenvolvimento de games com Pygame:link: https://akiradev.netlify.app/posts/desenvolvimento-games-python/**
+- **Desenvolvimento de games com Pygame: https://akiradev.netlify.app/posts/desenvolvimento-games-python/**
 ---
 
 🛠️ **Ferramentas e Tecnologias**
