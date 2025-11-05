@@ -2,7 +2,7 @@
   <img width="700" height="341" alt="image" src="https://github.com/user-attachments/assets/97f523d4-f2c7-4086-abaf-e5c0d337b7d6" />
 </p>
 
-<h1 align="center">🌐 Tópicos Especiais em Programação: Desenvolvimento Web Fullstack com MERN</h1>
+<h1 align="center">🌐 Games com Pygame </h1>
 
 <p align="center">
   <strong>Instituto Federal de Educação, Ciência e Tecnologia do Piauí - Campus Pedro II</strong><br>
